@@ -1,0 +1,13 @@
+*THINGS TO TAKE NOTE*
+- The code has been optimized to work for the video file provided with this Assignment
+- Different video files and formats would require slight editing in the min_area and thresh values in code becuase of change in light settings 
+
+To run the code
+- First make sure you have OpenCV installed in your system for python
+- Open the command prompt to the folder where the code and video is saved
+- Type in the following command within the quotation 
+	For 1st video: "python intrusion_detection_system.py --video 1_2_intruder_1.mp4"
+	For 2nd video: "python intrusion_detection_system.py --video 1_2_intruder_2.mp4"
+	The link to access and download 2nd video: https://1drv.ms/v/s!AnFXaSD_he3hiOlsP_IFVhEyXj-S1A
+- Please download the video to the folder where the code is
+- Once typed in, click on the enter button to run the code and the intrusion detection video will start to run
